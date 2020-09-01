@@ -1,5 +1,5 @@
-def base_hash(hash,key)
-  hash[railroad]
+def base_hash(hash)
+  hash = :railroad {}
 
 end
 
