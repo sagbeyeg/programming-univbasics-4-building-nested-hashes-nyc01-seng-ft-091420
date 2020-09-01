@@ -1,4 +1,4 @@
-def base_hash(hash)
+def base_hash(hash,key)
   hash[railroad]
 
 end
